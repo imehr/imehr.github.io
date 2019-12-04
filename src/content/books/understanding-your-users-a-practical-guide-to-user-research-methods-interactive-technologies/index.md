@@ -6,7 +6,7 @@ isbn: "0128002328"
 myRating: 10/10
 bookAuthor: "Kathy Baxter, Catherine Courage, Kelly Caine" 
 author: Mehran Mozaffari
-draft: false
+draft: true
 bookURL: "https://www.amazon.com/Understanding-Your-Users-Interactive-Technologies-ebook/dp/B00Y82LGZO/"
 date: 2014-01-30T07:03:47.149Z
 summary: 
