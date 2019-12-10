@@ -6,7 +6,7 @@ author: Mehran Mozaffari
 date: 2019-12-06T07:03:47.149Z
 caption: Mehran Mozaffari Projects
 draft: false
-tags: ['pen plotter', 'Drawing robot', 'Axidraw', 'Generative art']
+tags: ['pen plotter', 'Drawing robot', 'Axidraw', 'Generative art', 'penplotter','generative','creativecoding']
 ---
 
 ![Drawing robot - Generative art](./img/dr01.png)
