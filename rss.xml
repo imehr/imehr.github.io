@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Mehran Mozaffari]]></title><description><![CDATA[Mehran Mozaffari]]></description><link>https://gatsby-casper.netlify.com</link><generator>RSS for Node</generator><lastBuildDate>Mon, 09 Dec 2019 13:06:14 GMT</lastBuildDate><item><title><![CDATA[Drawing robot]]></title><description><![CDATA[
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Mehran Mozaffari]]></title><description><![CDATA[Mehran Mozaffari]]></description><link>https://gatsby-casper.netlify.com</link><generator>RSS for Node</generator><lastBuildDate>Tue, 10 Dec 2019 10:05:41 GMT</lastBuildDate><item><title><![CDATA[Drawing robot]]></title><description><![CDATA[
 
 
 
@@ -2005,7 +2005,395 @@ NAME TAG, 2019Light (color, sound, Nodebox), computer, handwritten letters in Pe
   &lt;/a&gt;&lt;/p&gt;
 &lt;h6&gt;NAME TAG, 2019&lt;/h6&gt;
 &lt;p&gt;Light (color, sound, Nodebox), computer, handwritten letters in Persian Nastaliq style, calligraphy &lt;br&gt;
-Dimensions variable, landscape orientation, square&lt;/p&gt;</content:encoded></item><item><title><![CDATA[UNTITLED]]></title><description><![CDATA[
+Dimensions variable, landscape orientation, square&lt;/p&gt;</content:encoded></item><item><title><![CDATA[CNC Drawing]]></title><description><![CDATA[
+
+
+
+
+
+
+
+
+
+
+
+]]></description><link>https://gatsby-casper.netlify.com/projects/CNC-drawing/index/</link><guid isPermaLink="false">https://gatsby-casper.netlify.com/projects/CNC-drawing/index/</guid><pubDate>Thu, 06 Aug 2015 07:03:47 GMT</pubDate><content:encoded>&lt;p&gt;&lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/a122558875bed80f0ea3d21639824007/4d66e/cnc01.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1170px;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 74.3801652892562%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAPCAIAAABr+ngCAAAACXBIWXMAAAsTAAALEwEAmpwYAAADaklEQVQozx2R2U/bBgDGLY0ktuM7vhLbcRInJge5cQ5s0qQuOUgLSSAUWpqG0JZL3dBaoCUEULWNqatWre0OHlAf+oB2VdW0PUyV9jfsT5q1l+/tp0/f7wP0qBTxMqaWKKWjuYTqIhDVJzEU7oRBI6VePFk+uVPu6OG4RIqUEwVtOOLgKEzmqbCXAaqZQHsqstdrNUq5yZiCoRDrIoxsrKTFYorn4a2Zl/srF6d3/nq1dfll/8V2Y/N6tqhyssuJOsaA0UK6X1Yf36p16/rYJwCGgCTuFDiyZiR2+7N763M7K9W1RbNTL/YWzaNPl74/7v/zdvjx/OBieBv49/n8xy+68/lgIeIhcBgCbYjTsVTTbjfynWvpBzcrTzdb3xysvhr1Xz7pP1qbG3RnbswYrdnS4Wc94M+9ymEnFZdd4xJFEzAM2mDINmtErmUDlayvaajtq/HV67mN5crhVvvNyf3fXu//8dPR+x+GZ/sDYHqccVOwzKJ+HgsKpEAjOGJXRDISYJMqb6Tkal5pFJV2ObJoxgctfWfFPH1488Vw/dfzU0CgnAEOCQuo6kZFBvHQCO+CrXKWck4nJYElFNGVVN1XMnJzKtQsKi0jtGwm7rX1z9eagBZiFR6RaJjGQRqHKBy0zoBAO4qAaZVjKIR1YRJPuGks5GWMlK+aDzYKSk3zNSZlYEIiA6zTgnkKZgjIIh0Om90+BlqXog5LfsRPG2kpKFIshah+zsgolpH56YlGIQh4abSRcjcnRZlDGRIWrPEenKVgEgNR2E6iDgqHcBQSWCwX9WSi4nY3PxqUd7pTpqYCXg57UIt9e0+v5fyqj06HPYWE6PdaO9mEwiBOcMxmgyA7gYGWjqTi2u1mLkfN5zszc6UJwMti8QD3dCn77lHlbD1/clc7vqut34gVU5I2IVSycirEWgVuyul2wWEJy6muzpQ8p6vV/Dggc7jAYFEfvdGMPuvlvtvSPxybH07NYU/rVsMbC6nNhfTJWmG3m1o1Q+U4n/QRfg7hSFjmCCAoUD43KbtJgcNlDxnyMcPVzPtR+edh+fKo/O6wcv648stp/fdnjR93r3QrkXiQD3hIC6ZxGBBZ3MsRXp78Pwmfh9JiQkNXtjuJrwaTX9/P/31Wf3twdauTrRvjVT0ynQ1Vi9GkKnpo7D+ZTr3JzRyuaQAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+    &gt;&lt;/span&gt;
+    &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Drawing robot - Generative art&quot;
+        title=&quot;&quot;
+        src=&quot;/static/a122558875bed80f0ea3d21639824007/913fc/cnc01.png&quot;
+        srcset=&quot;/static/a122558875bed80f0ea3d21639824007/bc34b/cnc01.png 293w,
+/static/a122558875bed80f0ea3d21639824007/da9f0/cnc01.png 585w,
+/static/a122558875bed80f0ea3d21639824007/913fc/cnc01.png 1170w,
+/static/a122558875bed80f0ea3d21639824007/4d66e/cnc01.png 1210w&quot;
+        sizes=&quot;(max-width: 1170px) 100vw, 1170px&quot;
+      /&gt;
+  &lt;/span&gt;
+  &lt;/a&gt;
+&lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/139ca9993b6c5c58112dad9ace7e6d81/4d66e/cnc02.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1170px;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 56.446280991735534%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAIAAADwazoUAAAACXBIWXMAAAsTAAALEwEAmpwYAAACR0lEQVQozxWSy2sTURTGZ2Mzd2buY+bO+5F5ZpLMJM0kmZimo30pNWKxolK0LVqQglgRpAsLlhbBvQtBdOFa/yb/Gk/hLO7i/s75vu8c4dfR6OpJtV0lGpFMJhtM4hRB+SZZlO6X49n14ez86fjto9HVUXP+bLGss2Y1+/75zb+/l8JR00kDi0gtTpCKRYfLvqH0AnUY86KtzXu2o+PE1xOPH2z2Ph0sXu1W857vcdxMS0HDEpNFjhEnUsdlmUuLUK1zI/fV2KFlzFNXdXTimbTuOl9fr18fNycPq+W8O0otQVVEDSOqoGHIQ1CAVuqOoTOE0AoSbwUmqXOTKKjtqGVqb4/Db6fNzw/3Ll40zzdLAcaCZpNKIBLLLSKLqUszj2KlBY0CE3uGQjBKfa3K3TJzD7byPxf3f3/cPdu/LQCpYZHIrbKthRaGB1HEwMKRTWKH5AFrW7iM+Lxv5YE6yJxubJ086P0423y/X994BtnQwubyorAhMElqKXKLEhGwjaE9iDSYr1IpstkgMXqJtVa4ly9np3tjwVQVpkDOiN2YFycdvUp54lL4zVV5lPLQJiCbEckxIDO7n1hVx74+rN89ngq+SW0NcyoZ0AWLFItAAj+IualhQlDmM9BcdYx+pK+VXurry1m0M4l3pjnAzOFEpzIciQqrphKUrilFrM26ZuQyQ8OBzerCuVv5G1WwtxYvBl4/set+JDAMDNiWYFsMI+B1TfZMYnDFNcm8cJpVbzH0tibhzrS9PQ3XR9GkHzZVdmec/web/llkvP/afgAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+    &gt;&lt;/span&gt;
+    &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Drawing robot - Generative art&quot;
+        title=&quot;&quot;
+        src=&quot;/static/139ca9993b6c5c58112dad9ace7e6d81/913fc/cnc02.png&quot;
+        srcset=&quot;/static/139ca9993b6c5c58112dad9ace7e6d81/bc34b/cnc02.png 293w,
+/static/139ca9993b6c5c58112dad9ace7e6d81/da9f0/cnc02.png 585w,
+/static/139ca9993b6c5c58112dad9ace7e6d81/913fc/cnc02.png 1170w,
+/static/139ca9993b6c5c58112dad9ace7e6d81/4d66e/cnc02.png 1210w&quot;
+        sizes=&quot;(max-width: 1170px) 100vw, 1170px&quot;
+      /&gt;
+  &lt;/span&gt;
+  &lt;/a&gt;
+&lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/7efa1674b14bf90b86ac4b10ff5087c6/4d66e/cnc03.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1170px;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 56.446280991735534%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAIAAADwazoUAAAACXBIWXMAAAsTAAALEwEAmpwYAAACZElEQVQozyWRy27TQBiFvUvisT0ej2d8ie+JEyfOlTpJ26SJ26YlbWlSIYQQCNRKdIMESFCEWlQoCxASrHgAVIkVEg/QokJ3SGx4JgZYnsX3n3P+w50e3313s/3taO3H68nvD9tPZ3UZAl0VqQKwzBME4oAMWg5VBBUBDYsGgSaBjoFDR+deXW99fTS4PJn8fLPx+fHAohJRwH9Sx0K7REMb+Saq+kTHkoYlk8oWRX6eFG2NO93vfj9eu3i5fnmyvlQzoPiXUf+RK3OOb8hQyLFbJQcnkRHaWFehZ+LQ1SPP4M4Px+cvxr/ebjzZaQogSxFgUesBWZmzOxW9E5uGKhIkKBCYFC7WrbTtenm16OrVQp47O1w9e7788f5CYBMoZJhhvUCGzXzRYp7Z+brpmTLFUiWguipRVVpsOmkSlH3zSuRzF0erXx4O+g1fBBlNARVXYSWTSBNBVhZzeSoFeZRUjPmm3Qi1wMK+TbfSKIn9Xq3IfdrvrsaGLPJIzMQeZiUVyMeB2izS0FHaJS1tW7WAYCQWXTrq+IFNb0waK91omFS5g2vVXCajSLwsZAumXLIR+xmSeFuHti73YmNz3vMtJXTUsqdtLkX9dmF3lqTdeDvtciVHkwGPJQFLPCvZKhKW2dEhm4eFtHQUumqnaq51/dmofHWxtDdLtkbNyXDu9uaQI7KkiAAJvAp55o/EXOQqSaT3a2YvNvt1O/Jo2ddbFWuaxncm7Y1BY3s5uTcbPbg14ZAAIMhJfA5DNhKPIc+kLDHJG0QsuWqvao57hemoMh3F44X6zri7t5M+252+P9j9A7qObHxk+fDJAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    &gt;&lt;/span&gt;
+    &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Drawing robot - Generative art&quot;
+        title=&quot;&quot;
+        src=&quot;/static/7efa1674b14bf90b86ac4b10ff5087c6/913fc/cnc03.png&quot;
+        srcset=&quot;/static/7efa1674b14bf90b86ac4b10ff5087c6/bc34b/cnc03.png 293w,
+/static/7efa1674b14bf90b86ac4b10ff5087c6/da9f0/cnc03.png 585w,
+/static/7efa1674b14bf90b86ac4b10ff5087c6/913fc/cnc03.png 1170w,
+/static/7efa1674b14bf90b86ac4b10ff5087c6/4d66e/cnc03.png 1210w&quot;
+        sizes=&quot;(max-width: 1170px) 100vw, 1170px&quot;
+      /&gt;
+  &lt;/span&gt;
+  &lt;/a&gt;
+&lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/400315e18f57d121b7fce38d868fce99/4d66e/cnc04.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1170px;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 56.446280991735534%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAIAAADwazoUAAAACXBIWXMAAAsTAAALEwEAmpwYAAACQklEQVQozx2SP2/UMBjGsyIhBsRdEiexHTvOH5+TXJxcc0nub9NrOfXaa4tOIFDpgBgQDLDxBdj4AJWQGJgZWRmRWFjYWdhYjpmF4iK968/v7/HzakWWHu5WlPlR5E93xKTguWBFGq53SxkHCDm2DRC0gQUC5u41sh6kENrYRYRg7Xh/lst+mvQujsd1zhGChgVSzvYbyQOSCx8h2wSmZQPfwwdjOa1zSpB6FCNHO1yMq7JYTossiWyEKXERhoHntsMMYSfw0DCLmkIYplEkwWKUDYs0YMS2gNqvnW+OyoE8aqtYcIWiaxhBjPZqiSHs6JYyHKSpws4OGurCVTtkHlZZruFH91bjpop4dH/VChHKJPIZTUJ0NB8Izt+/kz+/82fntmVjQpBhmqu2KqUS0W3b0k6We+1sBF0iYi5ENC7TTARphB0Trk/l3z/l1RZtvxmy9z+3ZSS9YDTMdKOrlmvzabM5WWJKiaeGKGHkqoGvXvgfP/DtD3r1q/P7y80yNRXsOIC48O68clQJtqmpki4enMwmtYOxMnMpIR42ALx8y75+Ys8fdz9f3nj58NbtDrAsU6kqeDEpFaw8ND+MerFYLduz5TRLOPUIoVgHKJfwzWuUCtbVEYRkmPE8CdUn3el2Zk2BMVLNX8PEYwCiUZmtF/XxolovRk82ydMNafJ4px82AzErYxHRvgjqgmexP61k3he6YWqeH1DmqXE9T8UOQtaL/CzFjGEXQx2YEDoGUIGBYQJ1G4y6Z8tJFDDdMP4B631+21vLfXAAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    &gt;&lt;/span&gt;
+    &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Drawing robot - Generative art&quot;
+        title=&quot;&quot;
+        src=&quot;/static/400315e18f57d121b7fce38d868fce99/913fc/cnc04.png&quot;
+        srcset=&quot;/static/400315e18f57d121b7fce38d868fce99/bc34b/cnc04.png 293w,
+/static/400315e18f57d121b7fce38d868fce99/da9f0/cnc04.png 585w,
+/static/400315e18f57d121b7fce38d868fce99/913fc/cnc04.png 1170w,
+/static/400315e18f57d121b7fce38d868fce99/4d66e/cnc04.png 1210w&quot;
+        sizes=&quot;(max-width: 1170px) 100vw, 1170px&quot;
+      /&gt;
+  &lt;/span&gt;
+  &lt;/a&gt;
+&lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/a18794d439510f5f1c687402e5f7704e/4d66e/cnc05.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1170px;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 56.446280991735534%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAIAAADwazoUAAAACXBIWXMAAAsTAAALEwEAmpwYAAACqklEQVQozwGfAmD9AN+6mvLOru3Fos6pkXhpUbStPs3ZUqvCUImkSnucSn2YRm6HQIacQmR9PEViOUBYL36LTcLDiNC+l7+ghQDvzK3QqIefgnR8dViqskC4y0+YsUyct0+atU+Pp0mCoEdwj0NohD9rhT5Xdj1WcTkzTCg4TiF/kUO9yHIA1q6PjW5lZGdPu8VEq8BKkbFSjKhOl69MjadJhaBIa45GWn5CZIRAe5M/cIw/UnM7W3k7R2MzMUkpPFQjAJuHZHBuNa+6RbXEQ6i+SJmuR6m9TYetUmuSSoCfSYWhR2KHRWeNRmKGQoadQXCJPEdmNkNkNVFxNlx3NgDd3kva6FCnxU+InkFvij9tkUiUq0h3k0V0mEuFpUxwkEaEokiEn0Vkh0JZeTyEmDxujDxphjlOazRIZzUAhaxSep1NutNPyuVUnbhNXYBFX4JEe5lIhqFJkqdHiqZIeZpFi6lHfZZAUG45eY88bYo+aIk8dY46Y3w3AGGLTl+KTU1zQ3CYTanKVafFVIGjT1p9RXqcSqu8SG+GP1F1P2yNQpauRWyNQoOWO5CrQYijPniNN4+iOgAuNCdjh0lql1BHbUNOd0aUuVWw0VqZtU9qkEpqj0eUrUiHmUBpfzxvhz2SqEKElztigDtoij6TpDmGjC0AIB8fKCsmS2Y+dp5PX4VJQWtFZZJPmb9WobxPcpRIZIVEkaxHkaZEd4g5gJg/dJZDlqk7k6o+nqcvZ2YsACMkIyQjIyMiIiw8L15/RnOWTEVqQkt0RXGYTGyIRGmAPXKMQHiVQmeHQU90P1F4Qlt7PJqoNJCPLKSCSwAlJicjJSQjJCMiISIiLilMaT94l0hJaj9AYj1TekVKbD87WztFaUBZekBzj0CYrECLmDdfYCNrXEKidlUlgR1SFUQmvQAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+    &gt;&lt;/span&gt;
+    &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Drawing robot - Generative art&quot;
+        title=&quot;&quot;
+        src=&quot;/static/a18794d439510f5f1c687402e5f7704e/913fc/cnc05.png&quot;
+        srcset=&quot;/static/a18794d439510f5f1c687402e5f7704e/bc34b/cnc05.png 293w,
+/static/a18794d439510f5f1c687402e5f7704e/da9f0/cnc05.png 585w,
+/static/a18794d439510f5f1c687402e5f7704e/913fc/cnc05.png 1170w,
+/static/a18794d439510f5f1c687402e5f7704e/4d66e/cnc05.png 1210w&quot;
+        sizes=&quot;(max-width: 1170px) 100vw, 1170px&quot;
+      /&gt;
+  &lt;/span&gt;
+  &lt;/a&gt;
+&lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/42869746a403640d679a7bc2870f2cf1/4d66e/cnc06.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1170px;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 56.446280991735534%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAIAAADwazoUAAAACXBIWXMAAAsTAAALEwEAmpwYAAACpUlEQVQozwXBC08SAQAA4Ps3/YCcWs1YBigCyhvuPAw0HlMRG5JQShoWiQrKiQKCCMizeByv4yEPFcF5kg5muPVaba1Wf6LvA4q3enNM4SlMYNfTBzVNGF88+a7HOsshXBdrqANHk6aYLFKXecrjliT0JsCZs4/MO2g2lJ7H2cDpr9cnP7SOnHQrJslezwRwTeDsWRxXJa/U9c+zrtKUMSp56wFNIW6oyHRlGbYca/lwRLlFe75DA7Cv2kBTmWgrfKdTK16ROS4LX6oidYUzOR6qPq20JZX2eKgCW2PcZQd1br1/MzSwnWHu5TnGCAP4+E9Z/Tlz0JA5jiWBCzmSkqgROF0XHX+SGsNCrYO/mwKdRciKCbbSPP3hyJyJuObqn98dsmWZQPUGvvkz1vo7Hr0Sbx+Jg025ryZzZkZ9BSh2LkQKIjnCmTDQlg7oSIqdv2L5Kwx7ggJrCKzZPmADFWxiUPZa0PoNpzuSnZJ4tyRCW1J7QbjkoB/mGCguWI9zGBoyRf5weo1sTTP2MWokQ5AZ+oFMR4jkwNW4INrg1r+AWGfCXRevxkFrAd6vjrpzLE+K8qEwUG4OG71DAuV9SNHj9t9zJYkLThKAFHilb2P7x+BiiOvMsbAmP916Yq+M6YK8BR/bVwP3ityXVpIj0OeKkyLFQYuHMKXtIsN3dTYCYEzzFr3D2Vs40YbfoTxDkJU8FyRwKI7zLChTYaVbMuxAg2fwD0FaAl/72IGSkfCj6aVe184dYK8GGlCuyk4NXkDR1hiS46+EmTaMFa0z0+cj2wm62U+O5only0G0NvQ++cAb7JLrusOp3hfmHsBe4bvPwLUUT2WjmtKc4OWotyZ4FWTN+9j2PCdcphl8A5NrJPEK0YUSczhlI0yG1L0cZbdU3/cfuJtmJPgFM3UAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    &gt;&lt;/span&gt;
+    &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Drawing robot - Generative art&quot;
+        title=&quot;&quot;
+        src=&quot;/static/42869746a403640d679a7bc2870f2cf1/913fc/cnc06.png&quot;
+        srcset=&quot;/static/42869746a403640d679a7bc2870f2cf1/bc34b/cnc06.png 293w,
+/static/42869746a403640d679a7bc2870f2cf1/da9f0/cnc06.png 585w,
+/static/42869746a403640d679a7bc2870f2cf1/913fc/cnc06.png 1170w,
+/static/42869746a403640d679a7bc2870f2cf1/4d66e/cnc06.png 1210w&quot;
+        sizes=&quot;(max-width: 1170px) 100vw, 1170px&quot;
+      /&gt;
+  &lt;/span&gt;
+  &lt;/a&gt;
+&lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/33c4d0ed0427fe0f9041ab5654a1f88e/4d66e/cnc07.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1170px;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 56.446280991735534%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAIAAADwazoUAAAACXBIWXMAAAsTAAALEwEAmpwYAAACp0lEQVQozw3PW1MSAQAF4P0daY0XsKYemwTltuyFZdnFlYtYYzVe0pLwmqKoKSmKwFruijcQBVlQURQjNEQMTBwnqSmd6rGpXxIP5/E7cw7wbcP2N7X4Y5vOB6cuoj3xTwZvtt65r7f4tePrVPBAvXGo4pL4hB97YYdHFiHHOji3DqUzU8kwDfxJspf+icR8RyzeFMrp50+0gwGN2UMtbhMfz8j4KbG0pxpbwrqmIdcatH8MsiFQ+vj+8r44kn4EHLGmePChL6lxHetDl3W2SM3AMuHeVB6eqhZ2Cesa8TaIRQ+QvRN4NgxaGImhU6Drl+6cQP6EEMjk6wN5Q+BcE/la78vpuueVwwuKtYRqiiN7WNziVnAJLJbFjDSKGqW4UcRwslgW8sRkrXYRcHilT/1rNgd1y8fU8XVNN6NwbynHAqR2EGE3ldE07tjEjS5F2zQ64ZF7Y4gzDNEBaa1ZQvRUAzB8byuj8Z019KxQXIZMXBDZK6rDgRiG0NWEanaX7KeR0QWUCaFzEbjLJTNY4cbX4jG3hN0SAzeKSsSSu8EjypPVj27UsHH1+W/Kt4O7w0rvgbrGjNpWMe8O2sko1L0yMyNvsUpGGXHkfdXSjgjgV/Bu3SwXVt0ZWYJf+cjhdfX2l7rsT036WjsbwTudiCtCcim8b0ZucoDWZTkXk+XyMmZLWtsrBMrKSgu+uKi0UsBvnwRbaZze03jTutNflGkGa7Ii0VPSzilf0ojdj6Q+g7nv8v45qaDhgby1EuDx+bxCCr644Cva34AmVuVJUlxOvxjFCledYbzvHfxsHFrdR1J5tMUJYx3iugFR57QQqLh9h1fBLysvL5QUF5dUCniNFknzJDr/gXBuE+GUcveMeGIBibaqlQT21AYZhmTPC/vnhOO+6v+dTi9xQZFaFwAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+    &gt;&lt;/span&gt;
+    &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Drawing robot - Generative art&quot;
+        title=&quot;&quot;
+        src=&quot;/static/33c4d0ed0427fe0f9041ab5654a1f88e/913fc/cnc07.png&quot;
+        srcset=&quot;/static/33c4d0ed0427fe0f9041ab5654a1f88e/bc34b/cnc07.png 293w,
+/static/33c4d0ed0427fe0f9041ab5654a1f88e/da9f0/cnc07.png 585w,
+/static/33c4d0ed0427fe0f9041ab5654a1f88e/913fc/cnc07.png 1170w,
+/static/33c4d0ed0427fe0f9041ab5654a1f88e/4d66e/cnc07.png 1210w&quot;
+        sizes=&quot;(max-width: 1170px) 100vw, 1170px&quot;
+      /&gt;
+  &lt;/span&gt;
+  &lt;/a&gt;
+&lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/0a10352348e699e2df713753e54a5bf3/4d66e/cnc08.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1170px;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 56.446280991735534%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAIAAADwazoUAAAACXBIWXMAAAsTAAALEwEAmpwYAAACi0lEQVQozxXLWU/aAAAA4P6wLWZZnE6Qo9DSlqPlhgpBDo1G5WrBiZwFvAYZjokTUcfUcQ4sR+XYdEOXJf6aubfv5QMOx/zMQMiw4kRHFGPF77/PYVszSFIo3uKB2wI4IYQZoSwpRGNzG4fT4fNZPDI9uzwFe18i1Atgt8NLdYSbNTFVlSRuRPttnulA6CyIZXERsSfWZEBTXmI6BNHYvCrJpy8E/qM3cuo15H2lfDcFgCG+NDL/luYrU0JPad5XhuMNmGmAq2dSXR7BszJ9HrGcPAMmP0H2ImTKCAKlOWOG5ziaATxVyH4Ga7OStTMwXJHutGWuC8RVxpiGZPEEMR4rHCU5fSUj87DlGCU/Y4IISGYFC1kBkhIA3qrUU0OoKrTXBXMDmG5i63WV/4bwNxTJvmKlqk5zqkAFdZWVyS4W7SmsJdR9DaVvRFQNBMwF2FpEvF+haEsWbiOrTeL/ZDXeni49Uvs6usKDOtDVu1u65Egb6hK2onztCqEr8Oo1BgRu0OdDVZBQV7HTgTx1fOmb2nZJOL/gwTruqyhjLbnlQmMva5frxu2+LthUJTpYrK+k20pgm8OYHkI30U2OYIaK/aEixhHJkSY91DJjfeE3HuX0VNcc4sjU0HQwNribBl9FZbvUG07VQGQg/3CPRPry8AAP9vBgX534oWXu9OGfxsgvMvfXmH/U5x7NuQl5+kQyd9bdoT7QMW2NLBRrBIJdLHkrj7ZQd5Nwf9es1HXrbeMGa3bWzessGZ/YqVsbfbvo6zuYB1fxyZKZWDbHjtQfp5u1AZl7ND2QfxzD+ZGsMFHtjolAk/BU1XRNG2eNac6UYA2huiFYIXd6ZKxlsp9brcUFf3/Jx7n+AVAhWIFX2mfKAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    &gt;&lt;/span&gt;
+    &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Drawing robot - Generative art&quot;
+        title=&quot;&quot;
+        src=&quot;/static/0a10352348e699e2df713753e54a5bf3/913fc/cnc08.png&quot;
+        srcset=&quot;/static/0a10352348e699e2df713753e54a5bf3/bc34b/cnc08.png 293w,
+/static/0a10352348e699e2df713753e54a5bf3/da9f0/cnc08.png 585w,
+/static/0a10352348e699e2df713753e54a5bf3/913fc/cnc08.png 1170w,
+/static/0a10352348e699e2df713753e54a5bf3/4d66e/cnc08.png 1210w&quot;
+        sizes=&quot;(max-width: 1170px) 100vw, 1170px&quot;
+      /&gt;
+  &lt;/span&gt;
+  &lt;/a&gt;
+&lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/6602cb2f413128948f60aa916af9bb93/4d66e/cnc09.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1170px;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 56.446280991735534%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAIAAADwazoUAAAACXBIWXMAAAsTAAALEwEAmpwYAAACbElEQVQozxWRXU/TUByH/+mHUaMxGqOXXnhjYhD0YiC4sbKXbqfn9HQ97dqetnspHes2fIFBQmKiCPEFb4wXGhOiMROMRMRIpkJ4TRRE5VM4bn53T54n+YEjpxwsc4yLGnZI1saZ0NWrtlrj2oRvTA1r04HyvCGfshaA/hasXTB3QdsA+gvUNSjj3jIZqOoxn0UdHC+zxLBJR0tG08/dD5WHdTIbKi9GyWm+BOqBYOxBbg/oBmg7QLehSq9VaCTMRx35hq/H6wUUWCSwUEc+Xurw6tyI9Ho0e4YvgP5H4OvADkHdhvwqkC1w5KRLs55GTDJU4anAFit2tOEN3i7JTZ9MFNCTCno/Jp9zPwDbFI72EOgOGF+BrkBBxTaRbJriDDsWCzw5LIp3AmliRJq5lZmt00chW7pnXnAXOqmCswjsHyg/gX4HugQGkpVUUkMJDSc4y9p6JvRVn0uNEmkGbKbBHte1d1Pm+VILyKrgLIO6D/QvoDakPwKT0gxlcCrG9cSwO1RyUcFBZQc1QzZZY5MV+qBKXo6zs4VFkL8JnVplH8gBSBsQbYGFMxbNMpJgStI2sZUnZh5xI9kI5KqLR6zsmJucq7GTxUXQ1gX2GdRNwLuQ2YLYJ7BJPC/3F/P9Ou3LGxLnimUmPU/xS1qlqDWK+l1PmQ7oCW8e2IrgvAX6A1JtiC9DbwsGui72d19KD3ZpaszQ08lkBKGbnJMcijCpRxOvOEOXm0bvcXceaFtQ3xydHGtDXwuuPgUSvS5GusW+HizFFFkkSKRYzMkDujLoGemqnahZsXEuHus41TUh/QrkVYh/OYK7n/0H6RQkJcriVq8AAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+    &gt;&lt;/span&gt;
+    &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Drawing robot - Generative art&quot;
+        title=&quot;&quot;
+        src=&quot;/static/6602cb2f413128948f60aa916af9bb93/913fc/cnc09.png&quot;
+        srcset=&quot;/static/6602cb2f413128948f60aa916af9bb93/bc34b/cnc09.png 293w,
+/static/6602cb2f413128948f60aa916af9bb93/da9f0/cnc09.png 585w,
+/static/6602cb2f413128948f60aa916af9bb93/913fc/cnc09.png 1170w,
+/static/6602cb2f413128948f60aa916af9bb93/4d66e/cnc09.png 1210w&quot;
+        sizes=&quot;(max-width: 1170px) 100vw, 1170px&quot;
+      /&gt;
+  &lt;/span&gt;
+  &lt;/a&gt;
+&lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/0f056c32378cb49e4c7d605884139181/4d66e/cnc10.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1170px;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 56.446280991735534%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAIAAADwazoUAAAACXBIWXMAAAsTAAALEwEAmpwYAAACqklEQVQozwGfAmD9ABl4pRlrlCFzliB4nxx6pRuDrxN9sRh3rBaNxRCOyw2P2RKL0xmLzg+M3iKW2zes4Tuv5ket1lO52lnE6gAIcLoKbLQEbbsGbroHcb0EecsLb7MWdqoegq4dfKoggLAlgKcnjLwbjtYgktssmNk7nMxFncRJnMROtOcADHK5DXS0BnO/AXbEAnfBB3bADHK4A3rOCoDOF4XFJom5LIy6M5nHM5zQPKXYPqTYL5baP6bbTqfNWL7nAARluAZksAJpuQRiqAdfnQ9opAtwuAZxwwR5zhJ+viKDtSiItSyQwTGTwz2dyESk0zef3jmf3Uuv4E606gAYb60IZ7YAZb0BZLoEZrgHaLQKZKgIcLsOcbcRcLQXgcoehskigcImjtMnk+A3ouY7pus0neNCqudPuOsAG2iWC1aQA12pAWKzBWSvCF+hDGimGHOmHXalE3e8F3u+Hn/AIYDBKZTYKpbcLJHRNp/bOJfORqrVTrvoAAZjrQNZpgNdqAVjrgdkqwdenwlnrA9vrxFysBBvtA1zvRVxsxyBxSiOyyqX3CaP1y6X2y6T0zuq6T6x9gAIY6MEZbIHZrAIYKUIY6gKZ6oKXJsHXqYCZ7gDabcNcbwTaaYad7AihcEfgMcefMYnfr8zicM7mt03rf8AEV6GEEhpDVyNCFyTDmCLFmiNEmmTEWaVCmyvB2+1E3KtDna4C4HTEojdGo3hIpTrKpLiNZ/sPp7gRqjsABBeiBBAVwtBYwpEaQpKcwpWggdfmAlkmwZppQhYigxekQV2vxJ2tiNoiyl0mitrlS5kiDNtkEGHq0yZyAAHWJUOWIsMWIYITnwGSIAITH8FXaIIabUIZ7EKWpoNYKASYJsZZp0faqAncaYud6I5epk9hKdKm7tWqcS/WyFMFW37HAAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+    &gt;&lt;/span&gt;
+    &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Drawing robot - Generative art&quot;
+        title=&quot;&quot;
+        src=&quot;/static/0f056c32378cb49e4c7d605884139181/913fc/cnc10.png&quot;
+        srcset=&quot;/static/0f056c32378cb49e4c7d605884139181/bc34b/cnc10.png 293w,
+/static/0f056c32378cb49e4c7d605884139181/da9f0/cnc10.png 585w,
+/static/0f056c32378cb49e4c7d605884139181/913fc/cnc10.png 1170w,
+/static/0f056c32378cb49e4c7d605884139181/4d66e/cnc10.png 1210w&quot;
+        sizes=&quot;(max-width: 1170px) 100vw, 1170px&quot;
+      /&gt;
+  &lt;/span&gt;
+  &lt;/a&gt;
+&lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/4a11fb092fe866dead752a0e41c1d465/4d66e/cnc11.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1170px;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 56.446280991735534%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAIAAADwazoUAAAACXBIWXMAAAsTAAALEwEAmpwYAAACqklEQVQozwGfAmD9AABywwJnsQNhpgJytQ1ZjQh/tQeJyw9+uhOk5yeX1ECMu2Ww3XW35XOr2X+24ZjK8rPb+afU8qPQ673k+QABZLMDWZ4EXKMAecgHb7cEgcUHfsQEi9AJnuIpnNUxhLhaptx7uuNvp9KFueWMxvSDvuiPxuqUyOSy4f8AAG/RAHTWAHreA2q9AXvPB2qxDFyUCIzGG36nMJK4OJ7TQZrQarTlX5/Pgr3mkcnvgL7ogr3nlsrur97/AABiwgFhvQBpxwdfqgVtuApdngZsrQGQ0g2Vxh6cxzmizjiczkaZxUqVx3a55ofC73e35nOpzZvF5LTb/wABXrkBYsABY70DaboDbLYIWpUChckJircVjLYcmMEWlMsknNoxkc1Lk8BxstNvsNdvsN6GvOuhzvSw1fUAAGS+AG/IAmSzBGWmAHjGCFyZBmqsAnrHAYHNAIvTB43NF4e/LIu8QpC8Y6/kebv1jMf6gbHWnrzOuNLdAAFdrAFmugFhtgRYmQNqtgVhrAdcowlfog1wrwp6uweHygSh4zek01Co3XG36Ye4znKgsoSiqajH0b3e6QABWbEBYrcCYbkBaMcActAAescDdagHbJwUbaMIfboAkdUZh60wkbFAreJepspZkKZypcOfyeKmzeKv0+4AAGHHAGbMBVGXA12UA26ZAm+ZAXimAX2yAHyxB3+rB4i4EH2qEIW7IoO3Pom1aa3ak8bql8DXn8PYtdv2AABjqwBpogJZlwNSjgJpmgJvnQJwmgVljwdqlAR4twWEywtvrhJ2rCiYxlKlzGqv23254JbG46vW8rzi9QAAYpoAYK0ETZUCW6YCYooHTmgFXpACabIEeckLgswJdroJb6wKks4soMhCnr5VqdqDveWby+2kzuqx2vfiylP2d9Ws3AAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+    &gt;&lt;/span&gt;
+    &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Drawing robot - Generative art&quot;
+        title=&quot;&quot;
+        src=&quot;/static/4a11fb092fe866dead752a0e41c1d465/913fc/cnc11.png&quot;
+        srcset=&quot;/static/4a11fb092fe866dead752a0e41c1d465/bc34b/cnc11.png 293w,
+/static/4a11fb092fe866dead752a0e41c1d465/da9f0/cnc11.png 585w,
+/static/4a11fb092fe866dead752a0e41c1d465/913fc/cnc11.png 1170w,
+/static/4a11fb092fe866dead752a0e41c1d465/4d66e/cnc11.png 1210w&quot;
+        sizes=&quot;(max-width: 1170px) 100vw, 1170px&quot;
+      /&gt;
+  &lt;/span&gt;
+  &lt;/a&gt;
+&lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/7ecb2213e21957403911eb39f80649cb/4d66e/cnc12.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1170px;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 56.446280991735534%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAIAAADwazoUAAAACXBIWXMAAAsTAAALEwEAmpwYAAACqklEQVQozwGfAmD9AGZdP2NXOlxSOFhNM1FFLkk/KUI6KD02JSEpMAsfQRAhQBEiRBIkSRMmSBQmSBMkRxIkPhEjOQ8hOQ4eNQB6fmZJeJlOfaBXfJVZfpBefYtSdYZBb4coSGAVJ0QbL1YcMFUgNFghNVkgNVwfMl4fMlQbLkgWKT8TJj8AYn6CAHTDAG/EAG3IAHDRAHXWAXXUAIDaEVmMJjdUJ0BoLEFxLkNrMUhqMEZyLkRyL0VmK0BaJjpVIDNJAFt7iAB7xAN9vwF3wAB2xAB60gF/ygCKxxdglDRFbThRgzxTiD5Uij9Uh0BYhkBXhD5VgDtRdzVLaS9EXgA9b5EAduABd98Adt8AecgAfsYDgMwAickhaKRCUIJFYI1LZZdNZZpNZaBMZJ1OZphNY5dIX45CWIY8UWwAIGyjAHjlAXnlAHziAHjcAHrUAX/XAIrgJXC5UGGZUWyjXXiwW3O1XXiyZX6xYHeuYXmlXHKnUmiZSF2RADZvkACD5AKD5gCC6gB+6QB74AJ31wCD5CpzxFxvq2N9vW2GxHGJ02yEz3GKwHCJtm2EvGqDrGB2sVJomwAlX4YAet4BguwAhPIAhe0AgeUDfcsAgMQ2f71nerlxi9J+msiCoNGCmel4kOB4ks51jclzi8hrhbNacagAGktuAHLXAYP2AIj7AI76AI/0BI7jAH/JOX6/eI/CdpPUh6Lfj7DLjqrpiqL1hJvpe5Had47Qb4jLZn+rAB0hJAUmTAdIhwhWmglcpAtcnw5amQBcq0F+yIaf14Ke4Iik6JKv5Zi64I6o+ZSs95Gp9IWd5neRxW6IuQAkLTIHCxEQGiQWJDIXJTQWIzEWHScGEBlObJ+Mqe+Rr+OZtu6UsOiatumat+2Ur/ORq+2Fn+V1jbtje6Z0JBaJTQ3U9AAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+    &gt;&lt;/span&gt;
+    &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Drawing robot - Generative art&quot;
+        title=&quot;&quot;
+        src=&quot;/static/7ecb2213e21957403911eb39f80649cb/913fc/cnc12.png&quot;
+        srcset=&quot;/static/7ecb2213e21957403911eb39f80649cb/bc34b/cnc12.png 293w,
+/static/7ecb2213e21957403911eb39f80649cb/da9f0/cnc12.png 585w,
+/static/7ecb2213e21957403911eb39f80649cb/913fc/cnc12.png 1170w,
+/static/7ecb2213e21957403911eb39f80649cb/4d66e/cnc12.png 1210w&quot;
+        sizes=&quot;(max-width: 1170px) 100vw, 1170px&quot;
+      /&gt;
+  &lt;/span&gt;
+  &lt;/a&gt;
+&lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/f98058c691e40e73afe976f4427ec844/4d66e/cnc13.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1170px;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 56.446280991735534%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAIAAADwazoUAAAACXBIWXMAAAsTAAALEwEAmpwYAAACGUlEQVQozx2STU8TURSGnytuXLgl/gx/AUtXJLoyJmIwlI+Wzkzne1pbVDRq3Lj1D7DQxMSVEBNjoBpEaEs/REkKdDqlTCm0WAiy9Q7JXZy7eO77nHMuQ/ffMvZRxDaEWsQqYdWxAlIBWoDaxtzBlNct7FWMHyJRJfZ7eCYfc1+P3hqBsUWm8mi7Il5F83F8cnvYIUYbJ8Q8wOhiNrEKGJsoRTFd5mFleHLlgfsGJqpMrKH6GDKtiXlI1icdonfINPD8qJAuVhm9gLJFoiZmSoxXr4/nIVZn+heKxDroB9gD3CMe9aLC3MeTWIi3hVOS2ihlZv+QKIhYkfEiTO6R8KPG7COsk8tzRqZHVhZHGCFugLODU8bZQN0kXkcpEP9JbF1qS5MDUo1I2D3FO8c5xTkh+xfnGPsQuxVpG5Jfw5RwjVQRfZXECtxbJtlBawsvJC2ZQ3ID7DPS51gXOC1cOYIAs421TXoZpYbyDe07SQnf+UCyhdYX6Y6Yl2SbuePolVyXXJ/UAN2/DG9j19Er0cySeRILqJ8Rt98zUUE7wzzhRUCuh3VKZoDXJdvC/BfxqtyZHyUruyRL2F+YXSL+jqsjr67cXRR6F2PAkybPQzJ9sn3mutGopbBxgdpE2cHYxd5Er6Hnhb7E5Ceu3bg5NLowNF0WMsQ95mWLZ/vMN3gc8LSBux1tzuphyOQ90hXhyR+1ztTiFfXrf1UnGsDmKi7EAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+    &gt;&lt;/span&gt;
+    &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Drawing robot - Generative art&quot;
+        title=&quot;&quot;
+        src=&quot;/static/f98058c691e40e73afe976f4427ec844/913fc/cnc13.png&quot;
+        srcset=&quot;/static/f98058c691e40e73afe976f4427ec844/bc34b/cnc13.png 293w,
+/static/f98058c691e40e73afe976f4427ec844/da9f0/cnc13.png 585w,
+/static/f98058c691e40e73afe976f4427ec844/913fc/cnc13.png 1170w,
+/static/f98058c691e40e73afe976f4427ec844/4d66e/cnc13.png 1210w&quot;
+        sizes=&quot;(max-width: 1170px) 100vw, 1170px&quot;
+      /&gt;
+  &lt;/span&gt;
+  &lt;/a&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[UNTITLED]]></title><description><![CDATA[
 
 
 

@@ -25,6 +25,7 @@
 <url> <loc>https://gatsby-casper.netlify.com/artworks/artwork55/inddex/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://gatsby-casper.netlify.com/artworks/artwork56/inddex/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://gatsby-casper.netlify.com/artworks/artwork57/inddex/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://gatsby-casper.netlify.com/projects/CNC-drawing/index/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://gatsby-casper.netlify.com/artworks/name-experiment/index/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://gatsby-casper.netlify.com/artworks/artwork58/index/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://gatsby-casper.netlify.com/projects/drawing-robot/index/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -32,11 +33,16 @@
 <url> <loc>https://gatsby-casper.netlify.com/tags/generative-design/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://gatsby-casper.netlify.com/tags/generative-art/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://gatsby-casper.netlify.com/tags//</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://gatsby-casper.netlify.com/tags/cnc/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://gatsby-casper.netlify.com/tags/drawing-robot/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://gatsby-casper.netlify.com/tags/carving/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://gatsby-casper.netlify.com/tags/generative/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://gatsby-casper.netlify.com/tags/creativecoding/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://gatsby-casper.netlify.com/tags/nodebox/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://gatsby-casper.netlify.com/tags/mehran-mozaffari/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://gatsby-casper.netlify.com/tags/pen-plotter/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://gatsby-casper.netlify.com/tags/drawing-robot/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://gatsby-casper.netlify.com/tags/axidraw/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://gatsby-casper.netlify.com/tags/penplotter/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://gatsby-casper.netlify.com/author/mehran-mozaffari/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://gatsby-casper.netlify.com/author/ghost/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://gatsby-casper.netlify.com/author/another-author/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
