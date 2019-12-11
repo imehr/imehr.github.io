@@ -26,6 +26,7 @@
 <url> <loc>https://gatsby-casper.netlify.com/artworks/artwork56/inddex/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://gatsby-casper.netlify.com/artworks/artwork57/inddex/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://gatsby-casper.netlify.com/projects/CNC-drawing/index/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://gatsby-casper.netlify.com/projects/Letter-heh-isolated-and-pinned/index/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://gatsby-casper.netlify.com/artworks/name-experiment/index/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://gatsby-casper.netlify.com/artworks/artwork58/index/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://gatsby-casper.netlify.com/projects/drawing-robot/index/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -38,6 +39,10 @@
 <url> <loc>https://gatsby-casper.netlify.com/tags/carving/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://gatsby-casper.netlify.com/tags/generative/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://gatsby-casper.netlify.com/tags/creativecoding/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://gatsby-casper.netlify.com/tags/3-d-printing/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://gatsby-casper.netlify.com/tags/3-dprint/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://gatsby-casper.netlify.com/tags/print/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://gatsby-casper.netlify.com/tags/letter/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://gatsby-casper.netlify.com/tags/nodebox/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://gatsby-casper.netlify.com/tags/mehran-mozaffari/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://gatsby-casper.netlify.com/tags/pen-plotter/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
