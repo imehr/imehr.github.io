@@ -21,3 +21,7 @@ tags: ['pen plotter', 'Drawing robot', 'Axidraw', 'Generative art', 'penplotter'
 ![Drawing robot - Generative art](./img/dr10.png)
 ![Drawing robot - Generative art](./img/dr11.png)
 ![Drawing robot - Generative art](./img/dr12.png)
+
+
+
+
