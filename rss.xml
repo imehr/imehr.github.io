@@ -1,4 +1,216 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Mehran Mozaffari]]></title><description><![CDATA[Mehran Mozaffari]]></description><link>https://gatsby-casper.netlify.com</link><generator>RSS for Node</generator><lastBuildDate>Wed, 11 Dec 2019 11:49:41 GMT</lastBuildDate><item><title><![CDATA[Drawing robot]]></title><description><![CDATA[
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Mehran Mozaffari]]></title><description><![CDATA[Mehran Mozaffari]]></description><link>https://gatsby-casper.netlify.com</link><generator>RSS for Node</generator><lastBuildDate>Tue, 28 Jan 2020 10:34:58 GMT</lastBuildDate><item><title><![CDATA[Experiment with lines]]></title><description><![CDATA[ Experiment with lines, 2020Experiment with letter Hae (color, sound, Nodebox), computer, handwritten letters in Persian Nastaliq style…]]></description><link>https://gatsby-casper.netlify.com/artworks/artwork59/index/</link><guid isPermaLink="false">https://gatsby-casper.netlify.com/artworks/artwork59/index/</guid><pubDate>Tue, 28 Jan 2020 07:03:47 GMT</pubDate><content:encoded>&lt;p&gt;&lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/470e3ad2bc73e8399dc3f769d0820131/39701/Untitled_321_01.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1170px;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAIDAQX/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIQAxAAAAH2IzstiK6AH//EABoQAQADAAMAAAAAAAAAAAAAAAEAERIDEzL/2gAIAQEAAQUCWjVRmzscpx+Mi0RZ/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAwEBPwEf/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAgEBPwEf/8QAGhAAAgMBAQAAAAAAAAAAAAAAABEBECExQf/aAAgBAQAGPwI2lPhpA0cr/8QAHBABAQACAgMAAAAAAAAAAAAAAQARYSFBMVGh/9oACAEBAAE/ISzwQd/dyxiVfgH2bMjUEyM94ate5L//2gAMAwEAAgADAAAAEOMAPP/EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8QH//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQIBAT8QH//EABwQAQACAwEBAQAAAAAAAAAAAAEAESExUUFhcf/aAAgBAQABPxBw/NfWBbpcYiEqIm4jYY16/UaAUX0SyhvIvpcaMDyqS5VWWu3Hpg1P/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;&lt;/span&gt;
+    &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;UNTITLED - Mehran Mozaffari Generative Art&quot;
+        title=&quot;&quot;
+        src=&quot;/static/470e3ad2bc73e8399dc3f769d0820131/4acc0/Untitled_321_01.jpg&quot;
+        srcset=&quot;/static/470e3ad2bc73e8399dc3f769d0820131/e33f8/Untitled_321_01.jpg 293w,
+/static/470e3ad2bc73e8399dc3f769d0820131/d5ce0/Untitled_321_01.jpg 585w,
+/static/470e3ad2bc73e8399dc3f769d0820131/4acc0/Untitled_321_01.jpg 1170w,
+/static/470e3ad2bc73e8399dc3f769d0820131/04b0f/Untitled_321_01.jpg 1755w,
+/static/470e3ad2bc73e8399dc3f769d0820131/39701/Untitled_321_01.jpg 2160w&quot;
+        sizes=&quot;(max-width: 1170px) 100vw, 1170px&quot;
+      /&gt;
+  &lt;/span&gt;
+  &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/93b69f0b1c46d3a12ae0605eb453f0cc/39701/Untitled_321_02.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1170px;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAIFA//EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAdWsjibziLoJB//EABwQAAICAgMAAAAAAAAAAAAAAAECAAMREgQQIv/aAAgBAQABBQKx9FVgwM5NvuuwkLnU4PRM/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAwEBPwEf/8QAFBEBAAAAAAAAAAAAAAAAAAAAIP/aAAgBAgEBPwEf/8QAGhAAAwADAQAAAAAAAAAAAAAAAAERAhASIf/aAAgBAQAGPwKlWn1YTCip7inv/8QAGxABAAIDAQEAAAAAAAAAAAAAAQARITFxQWH/2gAIAQEAAT8hB63Aibm8CgUalAc/k9gPIMvSINaA5Fuf/9oADAMBAAIAAwAAABDQwAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAEDAQE/EB//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAECAQE/EB//xAAbEAEAAwEBAQEAAAAAAAAAAAABABEhMUFhkf/aAAgBAQABPxBiYcIbChxxgxnkClYiiiYOvFEizaHGkWFBxNr9gmjvipUYcn//2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;&lt;/span&gt;
+    &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;UNTITLED - Mehran Mozaffari Generative Art&quot;
+        title=&quot;&quot;
+        src=&quot;/static/93b69f0b1c46d3a12ae0605eb453f0cc/4acc0/Untitled_321_02.jpg&quot;
+        srcset=&quot;/static/93b69f0b1c46d3a12ae0605eb453f0cc/e33f8/Untitled_321_02.jpg 293w,
+/static/93b69f0b1c46d3a12ae0605eb453f0cc/d5ce0/Untitled_321_02.jpg 585w,
+/static/93b69f0b1c46d3a12ae0605eb453f0cc/4acc0/Untitled_321_02.jpg 1170w,
+/static/93b69f0b1c46d3a12ae0605eb453f0cc/04b0f/Untitled_321_02.jpg 1755w,
+/static/93b69f0b1c46d3a12ae0605eb453f0cc/39701/Untitled_321_02.jpg 2160w&quot;
+        sizes=&quot;(max-width: 1170px) 100vw, 1170px&quot;
+      /&gt;
+  &lt;/span&gt;
+  &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/deee6602bc038eba4843758f7c70c4db/39701/Untitled_321_03.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1170px;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAIF/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEAMQAAAB17yJNdAoEg//xAAcEAABBAMBAAAAAAAAAAAAAAABAAIDERASEyH/2gAIAQEAAQUCLg3BU/QyMjn29q1aJX//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAEDAQE/AR//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAECAQE/AR//xAAdEAABAgcAAAAAAAAAAAAAAAABABEQICEzQVFx/9oACAEBAAY/Ag+Y2ydJ2I6VWT//xAAbEAEAAgIDAAAAAAAAAAAAAAABABExQRAhUf/aAAgBAQABPyFoKsDjODrHNJiF8gAG8vLx7n//2gAMAwEAAgADAAAAEMAPAP/EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8QH//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQIBAT8QH//EABsQAQADAQEBAQAAAAAAAAAAAAEAESExcWGB/9oACAEBAAE/EBFJfpCnlPkGPI1s7TwJiG+ghSrru3MOE+BKDDk//9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;&lt;/span&gt;
+    &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;UNTITLED - Mehran Mozaffari Generative Art&quot;
+        title=&quot;&quot;
+        src=&quot;/static/deee6602bc038eba4843758f7c70c4db/4acc0/Untitled_321_03.jpg&quot;
+        srcset=&quot;/static/deee6602bc038eba4843758f7c70c4db/e33f8/Untitled_321_03.jpg 293w,
+/static/deee6602bc038eba4843758f7c70c4db/d5ce0/Untitled_321_03.jpg 585w,
+/static/deee6602bc038eba4843758f7c70c4db/4acc0/Untitled_321_03.jpg 1170w,
+/static/deee6602bc038eba4843758f7c70c4db/04b0f/Untitled_321_03.jpg 1755w,
+/static/deee6602bc038eba4843758f7c70c4db/39701/Untitled_321_03.jpg 2160w&quot;
+        sizes=&quot;(max-width: 1170px) 100vw, 1170px&quot;
+      /&gt;
+  &lt;/span&gt;
+  &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/15ca00d6060fa1df4eef52d3b8ec12d4/39701/Untitled_321_04.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1170px;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAGQABAAIDAAAAAAAAAAAAAAAAAAMEAQUG/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEAMQAAAB3FKCkdAgGASg/8QAGxAAAwEBAAMAAAAAAAAAAAAAAQIDAAQQERL/2gAIAQEAAQUCY+ln0ofHTQfShH0wQjySmWM0xO//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAEDAQE/AR//xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAECAQE/AR//xAAZEAACAwEAAAAAAAAAAAAAAAAAAQIRIRD/2gAIAQEABj8CsqT3lN4WmI1GR5//xAAcEAACAgMBAQAAAAAAAAAAAAAAAREhMUFhUXH/2gAIAQEAAT8hmhYS/g2nDWBLAODJoS9OhCOC8u4R8dbZ8D//2gAMAwEAAgADAAAAEGDIPP/EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8QH//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQIBAT8QH//EABsQAQADAQEBAQAAAAAAAAAAAAEAESExQXHB/9oACAEBAAE/EBzrDLhNAULo7nJckUYkWK5hvYRU3p+JTWaynyI411VXKBf9ir92OIACp//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;&lt;/span&gt;
+    &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;UNTITLED - Mehran Mozaffari Generative Art&quot;
+        title=&quot;&quot;
+        src=&quot;/static/15ca00d6060fa1df4eef52d3b8ec12d4/4acc0/Untitled_321_04.jpg&quot;
+        srcset=&quot;/static/15ca00d6060fa1df4eef52d3b8ec12d4/e33f8/Untitled_321_04.jpg 293w,
+/static/15ca00d6060fa1df4eef52d3b8ec12d4/d5ce0/Untitled_321_04.jpg 585w,
+/static/15ca00d6060fa1df4eef52d3b8ec12d4/4acc0/Untitled_321_04.jpg 1170w,
+/static/15ca00d6060fa1df4eef52d3b8ec12d4/04b0f/Untitled_321_04.jpg 1755w,
+/static/15ca00d6060fa1df4eef52d3b8ec12d4/39701/Untitled_321_04.jpg 2160w&quot;
+        sizes=&quot;(max-width: 1170px) 100vw, 1170px&quot;
+      /&gt;
+  &lt;/span&gt;
+  &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/a7fbf7e8afb03c20677af48b25583487/39701/Untitled_321_06.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1170px;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAMCBP/EABYBAQEBAAAAAAAAAAAAAAAAAAIAAf/aAAwDAQACEAMQAAAB6MQjjsuhXZKoQ//EABsQAAMAAgMAAAAAAAAAAAAAAAECAwAEERIy/9oACAEBAAEFArOxxdgHKV4aigUB7FYkDY8SUBM//8QAFxEBAAMAAAAAAAAAAAAAAAAAEBEhQf/aAAgBAwEBPwGKMP/EABURAQEAAAAAAAAAAAAAAAAAABEg/9oACAECAQE/AWP/xAAhEAACAAQHAQAAAAAAAAAAAAAAAQIRQUIDEBIhIjEyUf/aAAgBAQAGPwLRh91fwlFxZsP2pl0URaImq5f/xAAcEAEAAwACAwAAAAAAAAAAAAABABEhUXEQMUH/2gAIAQEAAT8hvAUaULo9npiU2ziIpyqcYVYMKtrJTtd3Dp9GHi074//aAAwDAQACAAMAAAAQONC9/8QAFxEAAwEAAAAAAAAAAAAAAAAAARARQf/aAAgBAwEBPxDCKlf/xAAYEQACAwAAAAAAAAAAAAAAAAAAECExQf/aAAgBAgEBPxCxJq//xAAcEAEAAgIDAQAAAAAAAAAAAAABABEhMUFRcZH/2gAIAQEAAT8QxHDwjYexM4l4fCMTYKWm46iu69LzG6YgaDw6m5BbW5uBVawU8lagio7n/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;&lt;/span&gt;
+    &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;UNTITLED - Mehran Mozaffari Generative Art&quot;
+        title=&quot;&quot;
+        src=&quot;/static/a7fbf7e8afb03c20677af48b25583487/4acc0/Untitled_321_06.jpg&quot;
+        srcset=&quot;/static/a7fbf7e8afb03c20677af48b25583487/e33f8/Untitled_321_06.jpg 293w,
+/static/a7fbf7e8afb03c20677af48b25583487/d5ce0/Untitled_321_06.jpg 585w,
+/static/a7fbf7e8afb03c20677af48b25583487/4acc0/Untitled_321_06.jpg 1170w,
+/static/a7fbf7e8afb03c20677af48b25583487/04b0f/Untitled_321_06.jpg 1755w,
+/static/a7fbf7e8afb03c20677af48b25583487/39701/Untitled_321_06.jpg 2160w&quot;
+        sizes=&quot;(max-width: 1170px) 100vw, 1170px&quot;
+      /&gt;
+  &lt;/span&gt;
+  &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/d94203b9319f4584e6913a703fada9a0/39701/Untitled_321_07.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1170px;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAMC/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQIA/9oADAMBAAIQAxAAAAGes1LsqTcTFBJ//8QAGxAAAgMBAQEAAAAAAAAAAAAAAQIAAxIREyL/2gAIAQEAAQUCRHcDoKehVTdlbewHYWJSmT8z/8QAGBEAAgMAAAAAAAAAAAAAAAAAAQIAEGH/2gAIAQMBAT8BUwtl/wD/xAAUEQEAAAAAAAAAAAAAAAAAAAAg/9oACAECAQE/AR//xAAdEAACAgIDAQAAAAAAAAAAAAABEQACEiEQUWFx/9oACAEBAAY/AgbH5FaxqZsCZJTM0fvUdTrhllxDU//EAB0QAAICAgMBAAAAAAAAAAAAAAABESExQVFhgXH/2gAIAQEAAT8hjQxwKdLcyn4PM9VD0SIltZKEQljYzlboSj6gE3RZCk4R/9oADAMBAAIAAwAAABA0z4L/xAAXEQEBAQEAAAAAAAAAAAAAAAABEQAQ/9oACAEDAQE/ECLS4FsaoM5//8QAFxEBAQEBAAAAAAAAAAAAAAAAAQAQEf/aAAgBAgEBPxDAle3/xAAcEAEBAAIDAQEAAAAAAAAAAAABEQAhQVFhMXH/2gAIAQEAAT8Qu2Q1t+vrjQukNC4mCqjdKUncypVmbCecYNJJdoenGOPHEDhned44l9KJ2kIZIGJoIZ//2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;&lt;/span&gt;
+    &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;UNTITLED - Mehran Mozaffari Generative Art&quot;
+        title=&quot;&quot;
+        src=&quot;/static/d94203b9319f4584e6913a703fada9a0/4acc0/Untitled_321_07.jpg&quot;
+        srcset=&quot;/static/d94203b9319f4584e6913a703fada9a0/e33f8/Untitled_321_07.jpg 293w,
+/static/d94203b9319f4584e6913a703fada9a0/d5ce0/Untitled_321_07.jpg 585w,
+/static/d94203b9319f4584e6913a703fada9a0/4acc0/Untitled_321_07.jpg 1170w,
+/static/d94203b9319f4584e6913a703fada9a0/04b0f/Untitled_321_07.jpg 1755w,
+/static/d94203b9319f4584e6913a703fada9a0/39701/Untitled_321_07.jpg 2160w&quot;
+        sizes=&quot;(max-width: 1170px) 100vw, 1170px&quot;
+      /&gt;
+  &lt;/span&gt;
+  &lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/f1a3e754e3e5847edd13ad5842d65e52/39701/Untitled_321_08.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 1170px;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAUABQDASIAAhEBAxEB/8QAGAABAQADAAAAAAAAAAAAAAAAAAQDBQb/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAABjuZSNs0SzFdID//EABwQAAICAwEBAAAAAAAAAAAAAAIDAAEEEhMRIv/aAAgBAQABBQJarsOcZ8kOR4K8rdrcTodhUTWr5//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8BH//EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQIBAT8BH//EACAQAAECBQUAAAAAAAAAAAAAAAEAEgIQESFRIjEyYYH/2gAIAQEABj8CcRbC0hUXBCBm/ac+nkoAMy//xAAbEAADAQEAAwAAAAAAAAAAAAAAARFBIRAxkf/aAAgBAQABPyG8TwmidK0yUp9EZz9EwquUKfS8ELcF+oc98f/aAAwDAQACAAMAAAAQIC88/8QAFREBAQAAAAAAAAAAAAAAAAAAICH/2gAIAQMBAT8Qo//EABcRAAMBAAAAAAAAAAAAAAAAAAAQESH/2gAIAQIBAT8Qwj//xAAdEAEBAAICAwEAAAAAAAAAAAABEQAhMUFRYXEQ/9oACAEBAAE/EK4qd72fWRAcFY153xjKjQaesHWYSUA+OMPwg7RrxN4AYARXB9zVGojPff3EeUSFYR4/P//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;&lt;/span&gt;
+    &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;box-shadow:inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;UNTITLED - Mehran Mozaffari Generative Art&quot;
+        title=&quot;&quot;
+        src=&quot;/static/f1a3e754e3e5847edd13ad5842d65e52/4acc0/Untitled_321_08.jpg&quot;
+        srcset=&quot;/static/f1a3e754e3e5847edd13ad5842d65e52/e33f8/Untitled_321_08.jpg 293w,
+/static/f1a3e754e3e5847edd13ad5842d65e52/d5ce0/Untitled_321_08.jpg 585w,
+/static/f1a3e754e3e5847edd13ad5842d65e52/4acc0/Untitled_321_08.jpg 1170w,
+/static/f1a3e754e3e5847edd13ad5842d65e52/04b0f/Untitled_321_08.jpg 1755w,
+/static/f1a3e754e3e5847edd13ad5842d65e52/39701/Untitled_321_08.jpg 2160w&quot;
+        sizes=&quot;(max-width: 1170px) 100vw, 1170px&quot;
+      /&gt;
+  &lt;/span&gt;
+  &lt;/a&gt; &lt;/p&gt;
+&lt;h6&gt;Experiment with lines, 2020&lt;/h6&gt;
+&lt;p&gt;Experiment with letter Hae (color, sound, Nodebox), computer, handwritten letters in Persian Nastaliq style, calligraphy &lt;br&gt;
+Dimensions variable, landscape orientation, square&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Drawing robot]]></title><description><![CDATA[
 
 
 
